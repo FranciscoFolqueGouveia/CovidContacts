@@ -1,0 +1,16 @@
+/ContactExists.class
+/ContactNotExists.class
+/ContactNotRemoved.class
+/GroupExists.class
+/GroupNotExists.class
+/NoContactMessages.class
+/NoContacts.class
+/NoElementException.class
+/NoGroupMessages.class
+/NoParticipants.class
+/NoSuchElementException.class
+/OutOfCapacityException.class
+/SubscriptionExists.class
+/SubscriptionNotExists.class
+/UserExists.class
+/UserNotExists.class
